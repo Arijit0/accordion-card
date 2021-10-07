@@ -51,7 +51,7 @@ svg {
 }
 
 li {
-    border-bottom: 1px solid var(--Dark-grayish-blue);
+    border-bottom: 1px solid var(--Light-grayish-blue);
     padding: 15px 0px 15px 0px;
 }
 
